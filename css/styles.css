@@ -1,0 +1,88 @@
+    h1
+    {
+        color: pink;
+        text-decoration: underline;
+    }
+    
+    h2
+    {
+        color: yellow;
+    }
+    body{
+        font-size: 1em;
+        
+    }
+    
+    #input
+    {
+        margin: 0;
+        background-color: white;
+    }
+    
+    #output
+    {
+        margin: 0;
+        background-color: grey;
+    }
+    
+    select
+    {
+        font-size: 1.5em;
+    }
+    
+    option
+    {
+        color: green;
+    }
+    
+    .selectA
+    {
+        background-color: red;
+        color: green;
+    }
+    
+    .selectB
+    {
+        background-color: green;
+    }
+    
+    .selectC
+    {
+        background-color: blue;
+    }
+    
+    .selectD
+    {
+        background-color: lightgrey;
+    }
+    
+    .radio
+    {
+        width: 100px;
+        border-width: 1px;
+    }
+    
+    .radioON
+    {
+        opacity: 0.7;
+    }
+    .radioON:hover
+    {
+        opacity: 1;
+        font-size-adjust: 1.1;
+        transition: 0.9s;
+    }
+    .radio
+    {
+        
+    }
+    
+    label
+    {
+        color: brown;
+    }
+    
+    textarea
+    {
+        text-align: left;
+    }
